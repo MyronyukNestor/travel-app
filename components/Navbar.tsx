@@ -5,7 +5,7 @@ import { Session } from "next-auth";
 import Image from "next/image";
 import Link from "next/link";
 
-//test
+//test2
 
 const Navbar = ({ session }: { session: Session | null }) => {
   return (
