@@ -5,6 +5,8 @@ import { Session } from "next-auth";
 import Image from "next/image";
 import Link from "next/link";
 
+//test
+
 const Navbar = ({ session }: { session: Session | null }) => {
   return (
     <nav className="bg-white shadow-md py-4 border-b border-gray-200">
